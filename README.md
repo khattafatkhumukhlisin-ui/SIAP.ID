@@ -1,2 +1,2 @@
 # SIAP.ID
-aplikasi mitigasi bencana versi gen z
+aplikasi mitigasi bencana versi gen 
